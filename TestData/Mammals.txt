@@ -1,0 +1,62 @@
+anteater
+antelope
+armadillo
+badger
+bat
+bear
+beaver
+bullock
+camel
+chimpanzee
+dachshund
+dolphin
+elephant
+moose 
+fox
+gazelle
+gerbil
+giraffe
+goat
+grizzly bear
+guinea pig
+hamster
+hare
+hare
+hedgehog
+horse
+hyena
+lion
+llama
+lynx
+mammoth
+marmot
+mink
+mole
+mongoose
+mouse
+mule
+otter
+panda
+pig, hog
+platypus
+polar bear
+polecat
+pony
+porcupine
+prairie dog
+puma
+racoon
+rat
+reindeer
+rhinoceros
+seal
+seal
+sheep
+skunk
+sloth
+squirrel
+tiger
+weasel
+whale
+wolf
+zebra
