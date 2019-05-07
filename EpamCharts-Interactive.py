@@ -13,6 +13,8 @@ import plotly.graph_objs as go
 import pandas as pd
 
 df = pd.read_csv('HistoricalQuotes.csv')
+df['date'] =pd.to_datetime(df.date)
+df.sort_values('date')
 
 trace_high = go.Scatter(
     x=df.date,
